@@ -1,18 +1,19 @@
-# TicTac-Teiqui-
+# TicTac-Teiqui-  
 
-#Integrantes
-Farid Lopez
-Diego Miranda
+#Integrantes  
+Farid Lopez  
+Diego Miranda  
 
-#Curso y fecha
-Asignatura: Pensamiento algoritmico
+#Curso  
+Asignatura: Pensamiento algoritmico  
 
-##Estructura repositorio
+##Estructura repositorio  
 
-Taller-de-condicionales/
-├── README.md
-├── docs/
-│ ├── informe_tictactoe (1).pdf
-│ └── pruebas_tictactoe.pdf
-└── src/
-├── Triqui.cpp
+Taller-de-condicionales/  
+├── README.md  
+├── docs/  
+│ ├── informe_tictactoe (1).pdf  
+│ └── pruebas_tictactoe.pdf  
+└── src/  
+├── Triqui.cpp  
+  
