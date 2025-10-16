@@ -12,8 +12,7 @@ Asignatura: Pensamiento algoritmico
 Taller-de-condicionales/  
 ├── README.md  
 ├── docs/  
-│ ├── informe_tictactoe (1).pdf  
-│ └── pruebas_tictactoe.pdf  
+│ ├── Lopez Gomez, Miranda Avila_TicTacToe.zip  
 └── src/  
 ├── Triqui.cpp  
   
